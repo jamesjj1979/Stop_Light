@@ -1,0 +1,9 @@
+/* THE OUTER BOX OF THE STOPLIGHT */
+.stoplight {
+  position: "relative";
+  left: 100px;
+  top: 300px;
+  width: 150px;
+  height: 320px;
+  background-color: black;
+}
